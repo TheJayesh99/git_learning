@@ -10,3 +10,7 @@ def greeting():
 
 def chai():
     print("chai")
+
+
+def tasty():
+    print("tasty")
